@@ -27,7 +27,7 @@ extern void ConfigUART(unsigned int baud);
 sbit beep=P2^3;
 //Oled
 extern void OledInit();
-
+//test
 void main()
 {
 	EMinit();
